@@ -1,0 +1,11 @@
+# The Rookie: Badge of Honor
+# Requirements file
+
+# This game uses Python's built-in tkinter library which comes
+# pre-installed with Python on macOS.
+
+# No additional packages required!
+# Just run: python3 rookie_puzzle_game.py
+
+# Optional: If you want to build a standalone .app bundle, install:
+# py2app==0.28.6
